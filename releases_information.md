@@ -10,34 +10,6 @@ I want to create **official releases** for this repository to ensure:
 - A stable experience on new Ubuntu Desktop installations.  
 
 
-## Version: 1st
-
-Here i will want to have only simple interface.
-### Extensions: 
-. Dash To Panel
-. Clipboard Indicator
-. Notification Banner Reloaded
-. Panel Note
-
-https://extensions.gnome.org/extension/1160/dash-to-panel/
-https://extensions.gnome.org/extension/779/clipboard-indicator/
-https://extensions.gnome.org/extension/4651/notification-banner-reloaded/
-https://extensions.gnome.org/extension/6718/panel-note/
-
-
-## Version: 2nd 
-
-I will add Eye on Cursor & Hide Items two extensions.
-And in this time i will add a Keyboard Key Press Sound Effect (bucklespring package) where it will give me a little sound on key press on keyboard in some apps.
-
-. Eye On Cursor
-. Hide Items
-https://extensions.gnome.org/extension/7036/eye-on-cursor/
-https://extensions.gnome.org/extension/6771/hide-items/
-
-
-
-
 
 ## 📌 Project Versions  
 
